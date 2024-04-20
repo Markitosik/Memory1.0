@@ -15,7 +15,6 @@ Memory - карточная web-игра на поиск пары.
 
 
 ## Функционал:  
-
 ### До начала игры:  
 1. Пользователь может начать игру  
 2. Пользователь может ознакомиться с правилами игры 
@@ -29,14 +28,17 @@ Memory - карточная web-игра на поиск пары.
 2. Пользователь может начать новую игру в том же режиме  
 
 
+
 ### Изображения из игры:  
 Главный экран  
 ![Главный экран](https://github.com/Markitosik/Memory1.0/blob/master/demonstration/main_frame.png)
+
 
 
 Однопользовательский режим на время  
 ![Однопользовательский режим на время](https://github.com/Markitosik/Memory1.0/blob/master/demonstration/game_frame.png)
 
 
-Экран результатов
+
+Экран результатов  
 ![Многопользовательский режим](https://github.com/Markitosik/Memory1.0/blob/master/demonstration/result_frame.png)
